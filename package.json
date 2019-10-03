@@ -1,0 +1,23 @@
+{
+  "name": "noderocket",
+  "version": "1.0.0",
+  "description": "Node classes Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helderboone/NodeRocket.git"
+  },
+  "author": "Helder Boone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helderboone/NodeRocket/issues"
+  },
+  "homepage": "https://github.com/helderboone/NodeRocket#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
